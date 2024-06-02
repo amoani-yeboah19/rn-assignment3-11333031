@@ -13,4 +13,4 @@ This is a task manager application built with React Native. It includes categori
 - **CategoryScreen**: Displays tasks for a selected category and allows adding new tasks.
 
 ## Screenshots
-[![](my-app1/screenshot.jpeg)]
+[![](screenshot3.jpeg)]
